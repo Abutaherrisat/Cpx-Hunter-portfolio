@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0ch;
+}h1{
+    font-size: 50px;
+}
+.orange-color{
+    color:orange;
+}
+section{
+    display: flex;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    border-radius: 5px;
+    padding:10px 40px;
+    color:white;
+    font-weight: 700;
+    
+}
+.half-width{
+    width:50%;
+
+}
+.half-width img{
+    width:80%;
+}
+.top-banner{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
